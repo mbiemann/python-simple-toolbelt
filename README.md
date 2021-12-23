@@ -5,7 +5,7 @@ A growing collection of simple utilities functions for Python
 ## Installation
 
 ```bash
-pip install simple_toolbelt
+pip install simple-toolbelt
 ```
 
 ## Functions
