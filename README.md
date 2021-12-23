@@ -10,11 +10,11 @@ pip install simple_toolbelt
 
 ## Functions
 
-- [path.ensure_dir]()
+- [path.ensure_dir](#pathensure_dir)
 
 ___
 
-#### path.ensure_dir()
+#### path.ensure_dir
 
 Create the directories, include subs, if don't exist.
 
